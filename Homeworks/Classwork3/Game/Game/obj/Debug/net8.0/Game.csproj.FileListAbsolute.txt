@@ -1,0 +1,15 @@
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Game\Game\bin\Debug\net8.0\Game.exe
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Game\Game\bin\Debug\net8.0\Game.deps.json
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Game\Game\bin\Debug\net8.0\Game.runtimeconfig.json
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Game\Game\bin\Debug\net8.0\Game.dll
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Game\Game\bin\Debug\net8.0\Game.pdb
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Game\Game\obj\Debug\net8.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Game\Game\obj\Debug\net8.0\Game.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Game\Game\obj\Debug\net8.0\Game.AssemblyInfo.cs
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Game\Game\obj\Debug\net8.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Game\Game\obj\Debug\net8.0\Game.sourcelink.json
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Game\Game\obj\Debug\net8.0\Game.dll
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Game\Game\obj\Debug\net8.0\refint\Game.dll
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Game\Game\obj\Debug\net8.0\Game.pdb
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Game\Game\obj\Debug\net8.0\Game.genruntimeconfig.cache
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Game\Game\obj\Debug\net8.0\ref\Game.dll
