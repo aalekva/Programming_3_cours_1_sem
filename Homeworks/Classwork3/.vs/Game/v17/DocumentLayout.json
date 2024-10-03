@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E4C119-18DA-4808-ABCA-733A9701D8E9}|Game\\Game.csproj|c:\\users\\aleks\\desktop\\c# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\game\\game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E4C119-18DA-4808-ABCA-733A9701D8E9}|Game\\Game.csproj|solutionrelative:game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E4C119-18DA-4808-ABCA-733A9701D8E9}|Game\\Game.csproj|c:\\users\\aleks\\desktop\\c# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\game\\game\\plate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E4C119-18DA-4808-ABCA-733A9701D8E9}|Game\\Game.csproj|solutionrelative:game\\plate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E4C119-18DA-4808-ABCA-733A9701D8E9}|Game\\Game.csproj|c:\\users\\aleks\\desktop\\c# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\game\\game\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E4C119-18DA-4808-ABCA-733A9701D8E9}|Game\\Game.csproj|solutionrelative:game\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E4C119-18DA-4808-ABCA-733A9701D8E9}|Game\\Game.csproj|c:\\users\\aleks\\desktop\\c# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\game\\game\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E4C119-18DA-4808-ABCA-733A9701D8E9}|Game\\Game.csproj|solutionrelative:game\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E4C119-18DA-4808-ABCA-733A9701D8E9}|Game\\Game.csproj|c:\\users\\aleks\\desktop\\c# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\game\\game\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E4C119-18DA-4808-ABCA-733A9701D8E9}|Game\\Game.csproj|solutionrelative:game\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E4C119-18DA-4808-ABCA-733A9701D8E9}|Game\\Game.csproj|c:\\users\\aleks\\desktop\\c# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\game\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E4C119-18DA-4808-ABCA-733A9701D8E9}|Game\\Game.csproj|solutionrelative:game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E4C119-18DA-4808-ABCA-733A9701D8E9}|Game\\Game.csproj|c:\\users\\aleks\\desktop\\c# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\game\\game\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E4C119-18DA-4808-ABCA-733A9701D8E9}|Game\\Game.csproj|solutionrelative:game\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E4C119-18DA-4808-ABCA-733A9701D8E9}|Game\\Game.csproj|c:\\users\\aleks\\desktop\\c# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\game\\game\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E4C119-18DA-4808-ABCA-733A9701D8E9}|Game\\Game.csproj|solutionrelative:game\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plate.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\Game\\Plate.cs",
+              "RelativeDocumentMoniker": "Game\\Plate.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\Game\\Plate.cs",
+              "RelativeToolTip": "Game\\Plate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:17:47.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\Game\\Character.cs",
+              "RelativeDocumentMoniker": "Game\\Character.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\Game\\Character.cs",
+              "RelativeToolTip": "Game\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:17:23.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\Game\\Tree.cs",
+              "RelativeDocumentMoniker": "Game\\Tree.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\Game\\Tree.cs",
+              "RelativeToolTip": "Game\\Tree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:16:50.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rock.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\Game\\Rock.cs",
+              "RelativeDocumentMoniker": "Game\\Rock.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\Game\\Rock.cs",
+              "RelativeToolTip": "Game\\Rock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:13:27.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\Game\\Grass.cs",
+              "RelativeDocumentMoniker": "Game\\Grass.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\Game\\Grass.cs",
+              "RelativeToolTip": "Game\\Grass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:10:58.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\Game\\Cell.cs",
+              "RelativeDocumentMoniker": "Game\\Cell.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\Game\\Cell.cs",
+              "RelativeToolTip": "Game\\Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:06:11.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\Game\\Program.cs",
+              "RelativeDocumentMoniker": "Game\\Program.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\Game\\Program.cs",
+              "RelativeToolTip": "Game\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:24:28.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\Game\\Game.cs",
+              "RelativeDocumentMoniker": "Game\\Game.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\C# 3 \u0443\u0440\u0441 1 \u0441\u0435\u043C\\Game\\Game\\Game.cs",
+              "RelativeToolTip": "Game\\Game.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:29:05.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
