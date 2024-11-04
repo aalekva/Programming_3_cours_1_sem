@@ -1,0 +1,15 @@
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Homeworks\Homework7.1\Homework7.1\obj\Debug\net8.0\Homework7.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Homeworks\Homework7.1\Homework7.1\obj\Debug\net8.0\Homework7.1.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Homeworks\Homework7.1\Homework7.1\obj\Debug\net8.0\Homework7.1.AssemblyInfo.cs
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Homeworks\Homework7.1\Homework7.1\obj\Debug\net8.0\Homework7.1.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Homeworks\Homework7.1\Homework7.1\obj\Debug\net8.0\Homework7.1.sourcelink.json
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Homeworks\Homework7.1\Homework7.1\bin\Debug\net8.0\Homework7.1.exe
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Homeworks\Homework7.1\Homework7.1\bin\Debug\net8.0\Homework7.1.deps.json
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Homeworks\Homework7.1\Homework7.1\bin\Debug\net8.0\Homework7.1.runtimeconfig.json
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Homeworks\Homework7.1\Homework7.1\bin\Debug\net8.0\Homework7.1.dll
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Homeworks\Homework7.1\Homework7.1\bin\Debug\net8.0\Homework7.1.pdb
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Homeworks\Homework7.1\Homework7.1\obj\Debug\net8.0\Homework7.1.dll
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Homeworks\Homework7.1\Homework7.1\obj\Debug\net8.0\refint\Homework7.1.dll
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Homeworks\Homework7.1\Homework7.1\obj\Debug\net8.0\Homework7.1.pdb
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Homeworks\Homework7.1\Homework7.1\obj\Debug\net8.0\Homework7.1.genruntimeconfig.cache
+C:\Users\aleks\Desktop\C# 3 урс 1 сем\Homeworks\Homework7.1\Homework7.1\obj\Debug\net8.0\ref\Homework7.1.dll
