@@ -1,0 +1,14 @@
+D:\Домашки C#\Кз 11.1\Кз 11.1\bin\Debug\net8.0\Кз 11.1.exe
+D:\Домашки C#\Кз 11.1\Кз 11.1\bin\Debug\net8.0\Кз 11.1.deps.json
+D:\Домашки C#\Кз 11.1\Кз 11.1\bin\Debug\net8.0\Кз 11.1.runtimeconfig.json
+D:\Домашки C#\Кз 11.1\Кз 11.1\bin\Debug\net8.0\Кз 11.1.dll
+D:\Домашки C#\Кз 11.1\Кз 11.1\bin\Debug\net8.0\Кз 11.1.pdb
+D:\Домашки C#\Кз 11.1\Кз 11.1\obj\Debug\net8.0\Кз 11.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашки C#\Кз 11.1\Кз 11.1\obj\Debug\net8.0\Кз 11.1.AssemblyInfoInputs.cache
+D:\Домашки C#\Кз 11.1\Кз 11.1\obj\Debug\net8.0\Кз 11.1.AssemblyInfo.cs
+D:\Домашки C#\Кз 11.1\Кз 11.1\obj\Debug\net8.0\Кз 11.1.csproj.CoreCompileInputs.cache
+D:\Домашки C#\Кз 11.1\Кз 11.1\obj\Debug\net8.0\Кз 11.1.dll
+D:\Домашки C#\Кз 11.1\Кз 11.1\obj\Debug\net8.0\refint\Кз 11.1.dll
+D:\Домашки C#\Кз 11.1\Кз 11.1\obj\Debug\net8.0\Кз 11.1.pdb
+D:\Домашки C#\Кз 11.1\Кз 11.1\obj\Debug\net8.0\Кз 11.1.genruntimeconfig.cache
+D:\Домашки C#\Кз 11.1\Кз 11.1\obj\Debug\net8.0\ref\Кз 11.1.dll
